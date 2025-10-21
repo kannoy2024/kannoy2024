@@ -9,7 +9,7 @@
 ## 🛠 技术栈
 
 **后端:**
-- **语言:** Java (熟练)
+- **语言:** Java
 - **框架:** Spring, Spring Boot, Spring MVC, MyBatis/MyBatis-Plus
 - **安全:** Spring Security, JWT
 - **构建工具:** Maven
